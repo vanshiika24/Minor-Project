@@ -1,2 +1,4 @@
 # Minor-Project
-This is the minor project I worked on in my University.
+Detection of Depression on Twitter using ML Techniques
+
+(A Sentiment Analysis-based project)
